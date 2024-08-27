@@ -1,0 +1,55 @@
+{
+    "country": [
+        {
+            "id": "NZL",
+            "name": "New Zealand",
+            "description": "New Zealand is known for its environmental policies and as a filming location for movies like 'The Lord of the Rings.' The economy is largely based on agriculture, particularly dairy and sheep farming, as well as tourism and film production."
+        },
+        {
+            "id": "CAN",
+            "name": "Canada",
+            "description": "Canada is the second-largest country by land area and is known for its natural resources, including oil, timber, and minerals. It has a diverse population and a strong healthcare and education system. The country is also known for its peacekeeping efforts and multicultural society."
+        },
+        {
+            "id": "UZB",
+            "name": "Uzbekistan",
+            "description": "Uzbekistan is rich in history, being a key part of the Silk Road. The country has a strong agricultural sector, particularly in cotton production. It is also known for its historic cities like Samarkand and Bukhara, which are UNESCO World Heritage sites."
+        },
+        {
+            "id": "HUN",
+            "name": "Hungary",
+            "description": "Hungary is known for its thermal spas and historical architecture, including the Buda Castle and the Parliament Building in Budapest. The country has a strong tradition in music and the arts, and its economy is driven by manufacturing and agriculture."
+        },
+        {
+            "id": "ESP",
+            "name": "Spain",
+            "description": "Spain is a culturally diverse country with strong regional identities, such as Catalonia and Andalusia. It has a rich history of art, literature, and architecture, with contributions from figures like Pablo Picasso and Miguel de Cervantes. The Spanish economy is driven by tourism, agriculture, and manufacturing."
+        },
+        {
+            "id": "SWE",
+            "name": "Sweden",
+            "description": "Sweden is known for its high standard of living, advanced social welfare system, and contributions to design and innovation. It has a strong economy based on exports of machinery, vehicles, and pharmaceuticals. Sweden is also known for its environmental consciousness and leadership in sustainability."
+        },
+        {
+            "id": "KEN",
+            "name": "Kenya",
+            "description": "Kenya is known for its wildlife safaris, national parks, and as the cradle of humanity, with significant archaeological finds in the Great Rift Valley. The economy is based on agriculture, tourism, and services. Kenya is also known for its long-distance runners who dominate international competitions."
+        },
+        {
+            "id": "NOR",
+            "name": "Norway",
+            "description": "Norway is known for its oil wealth, which has been managed through the Government Pension Fund Global, making it one of the wealthiest countries per capita. It is also famous for its fjords and outdoor lifestyle. Norway consistently ranks high in quality of life and environmental sustainability."
+        },
+        {
+            "id": "IRL",
+            "name": "Ireland",
+            "description": "Ireland is known for its rich literary history, with figures like James Joyce and W.B. Yeats. The country has a strong technology sector, attracting many multinational companies due to favorable tax policies. Ireland is also known for its green landscapes and cultural festivals like St. Patrick’s Day."
+        },
+        {
+            "id": "BRA",
+            "name": "Brazil",
+            "description": "Brazil is the largest country in South America and known for its biodiversity, including the Amazon Rainforest. The country is famous for its music, dance (such as samba and bossa nova), and football culture. Brazil has a mixed economy with significant agriculture, mining, and industrial sectors."
+        }
+    ]
+  }
+  
