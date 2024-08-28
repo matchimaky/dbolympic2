@@ -8,7 +8,8 @@
         {
             "id": "CAN",
             "name": "Canada",
-            "description": "Canada is the second-largest country by land area and is known for its natural resources, including oil, timber, and minerals. It has a diverse population and a strong healthcare and education system. The country is also known for its peacekeeping efforts and multicultural society."
+            "description": "Canada is the second-largest country by land area and is known for its natural resources, including oil, timber, and minerals. It has a diverse population and a strong healthcare and education system. The country is also known for its peacekeeping efforts and multicultural society.",
+            "hostcountry":"1976"
         },
         {
             "id": "UZB",
@@ -23,12 +24,14 @@
         {
             "id": "ESP",
             "name": "Spain",
-            "description": "Spain is a culturally diverse country with strong regional identities, such as Catalonia and Andalusia. It has a rich history of art, literature, and architecture, with contributions from figures like Pablo Picasso and Miguel de Cervantes. The Spanish economy is driven by tourism, agriculture, and manufacturing."
+            "description": "Spain is a culturally diverse country with strong regional identities, such as Catalonia and Andalusia. It has a rich history of art, literature, and architecture, with contributions from figures like Pablo Picasso and Miguel de Cervantes. The Spanish economy is driven by tourism, agriculture, and manufacturing.",
+            "hostcountry":"1992"
         },
         {
             "id": "SWE",
             "name": "Sweden",
-            "description": "Sweden is known for its high standard of living, advanced social welfare system, and contributions to design and innovation. It has a strong economy based on exports of machinery, vehicles, and pharmaceuticals. Sweden is also known for its environmental consciousness and leadership in sustainability."
+            "description": "Sweden is known for its high standard of living, advanced social welfare system, and contributions to design and innovation. It has a strong economy based on exports of machinery, vehicles, and pharmaceuticals. Sweden is also known for its environmental consciousness and leadership in sustainability.",
+            "hostcountry":"1912"
         },
         {
             "id": "KEN",
@@ -48,7 +51,8 @@
         {
             "id": "BRA",
             "name": "Brazil",
-            "description": "Brazil is the largest country in South America and known for its biodiversity, including the Amazon Rainforest. The country is famous for its music, dance (such as samba and bossa nova), and football culture. Brazil has a mixed economy with significant agriculture, mining, and industrial sectors."
+            "description": "Brazil is the largest country in South America and known for its biodiversity, including the Amazon Rainforest. The country is famous for its music, dance (such as samba and bossa nova), and football culture. Brazil has a mixed economy with significant agriculture, mining, and industrial sectors.",
+            "hostcountry":"2016"
         }
     ]
   }
